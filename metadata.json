@@ -1,0 +1,14 @@
+{
+  "address": "J45o2uG4GpRHZLQqxxqgzeyxU6gYtvotCyPZnPKE5GCh",
+  "symbol": "NSOL",
+  "name": "NovaSol",
+  "decimals": 9,
+  "logoURI": "https://github.com/Gammy223/llogo/blob/main/5967806407698925390.jpg",
+  "tags": [
+    "utility",
+    "community"
+  ],
+  "extensions": {
+    "description": "A decentralized, community-driven token powering the future of Web3 innovation."
+  }
+}
